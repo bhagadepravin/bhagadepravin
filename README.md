@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### �~Z~Y�~O &nbsp;GitHub Analytics
+### ⚙️  GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/bhagadepravin">
