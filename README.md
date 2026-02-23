@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Pravin Bhagade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Cloud+%26+Infrastructure+Engineer;Open+Source+Contributor;HBase+%7C+Hadoop+%7C+Kubernetes+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Resident+Solution+Architect;Hadoop+Support+Engineer;BigData+Support+Engineer;Kubernetes+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,9 +13,10 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 Currently working on **HBase Cluster Replication & Cloud Infrastructure**
-- 🌱 Exploring **Kubernetes, Observability & Big Data**
-- 💬 Ask me about **HBase, Hadoop, Linux, Shell Scripting**
+- 🏛️ **Resident Solution Architect** — designing scalable data platform solutions
+- 🐘 **Hadoop Support Engineer** — deep expertise in Apache Hadoop ecosystem
+- 📊 **BigData Support Engineer** — HBase, HDFS, Hive, Spark & beyond
+- ☸️ **Kubernetes Enthusiast** — containerized workloads & cloud-native ops
 - 📫 Reach me at [iampravinbhagade@gmail.com](mailto:iampravinbhagade@gmail.com)
 - ⚡ Fun fact: I automate everything I do more than twice
 
@@ -23,17 +24,46 @@
 
 ### 🛠️ Tech Stack
 
+#### Big Data & Hadoop Ecosystem
+
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20HBase-E25A1C?style=flat&logo=apache&logoColor=white" alt="Apache HBase" />
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache&logoColor=black" alt="Apache Hive" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache%20ZooKeeper-E25A1C?style=flat&logo=apache&logoColor=white" alt="Apache ZooKeeper" />
+  <img src="https://img.shields.io/badge/Apache%20Ambari-0082C8?style=flat&logo=apache&logoColor=white" alt="Apache Ambari" />
+  <img src="https://img.shields.io/badge/Apache%20Ranger-0082C8?style=flat&logo=apache&logoColor=white" alt="Apache Ranger" />
+  <img src="https://img.shields.io/badge/Apache%20Knox-0082C8?style=flat&logo=apache&logoColor=white" alt="Apache Knox" />
+  <img src="https://img.shields.io/badge/Apache%20Atlas-0082C8?style=flat&logo=apache&logoColor=white" alt="Apache Atlas" />
+  <img src="https://img.shields.io/badge/Apache%20Oozie-E25A1C?style=flat&logo=apache&logoColor=white" alt="Apache Oozie" />
+  <img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat&logo=apachehadoop&logoColor=black" alt="HDFS" />
+  <img src="https://img.shields.io/badge/YARN-66CCFF?style=flat&logo=apachehadoop&logoColor=black" alt="YARN" />
+</p>
+
+#### Containers & Cloud
+
+<p align="left">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+#### Languages & Tools
+
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
 </p>
 
 ---
@@ -42,8 +72,8 @@
 
 <p align="center">
   <a href="https://github.com/bhagadepravin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhagadepravin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhagadepravin&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhagadepravin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhagadepravin&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
   </a>
 </p>
 
@@ -64,7 +94,7 @@
 ### 🤝🏻 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/iampravinbhagade"><img src="https://img.shields.io/badge/-iampravinbhagade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:iampravinbhagade@gmail.com"><img src="https://img.shields.io/badge/-iampravinbhagade@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/bhagadepravin"><img src="https://img.shields.io/badge/-bhagadepravin-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/iampravinbhagade"><img src="https://img.shields.io/badge/-iampravinbhagade-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:iampravinbhagade@gmail.com"><img src="https://img.shields.io/badge/-iampravinbhagade@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/bhagadepravin"><img src="https://img.shields.io/badge/-bhagadepravin-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
