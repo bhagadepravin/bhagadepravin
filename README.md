@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Pravin Bhagade
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bhagadepravin&label=Profile%20Views&color=0e75b6&style=flat" alt="bhagadepravin" />
+</p>
+
 <!--
 **bhagadepravin/bhagadepravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
