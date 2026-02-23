@@ -38,27 +38,61 @@
   <img src="https://img.shields.io/badge/Apache%20Knox-0082C8?style=flat&logo=apache&logoColor=white" alt="Apache Knox" />
   <img src="https://img.shields.io/badge/Apache%20Atlas-0082C8?style=flat&logo=apache&logoColor=white" alt="Apache Atlas" />
   <img src="https://img.shields.io/badge/Apache%20Oozie-E25A1C?style=flat&logo=apache&logoColor=white" alt="Apache Oozie" />
+  <img src="https://img.shields.io/badge/Apache%20Solr-D9411E?style=flat&logo=apachesolr&logoColor=white" alt="Apache Solr" />
   <img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat&logo=apachehadoop&logoColor=black" alt="HDFS" />
   <img src="https://img.shields.io/badge/YARN-66CCFF?style=flat&logo=apachehadoop&logoColor=black" alt="YARN" />
+  <img src="https://img.shields.io/badge/HDP-EE0000?style=flat&logo=redhat&logoColor=white" alt="HDP" />
 </p>
 
-#### Containers & Cloud
+#### Cloud & Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Amazon EKS" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Azure Databricks" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake" />
+</p>
+
+#### Containers & Orchestration
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CKA-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="CKA" />
 </p>
 
-#### Languages & Tools
+#### Security & Identity
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kerberos-003366?style=flat&logoColor=white" alt="Kerberos" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/SAML-0082C8?style=flat&logoColor=white" alt="SAML" />
+  <img src="https://img.shields.io/badge/OAuth-3C3C3C?style=flat&logoColor=white" alt="OAuth" />
+  <img src="https://img.shields.io/badge/OpenID%20Connect-F78C40?style=flat&logoColor=white" alt="OpenID Connect" />
+  <img src="https://img.shields.io/badge/SSO-0082C8?style=flat&logoColor=white" alt="SSO" />
+  <img src="https://img.shields.io/badge/SSL%2FTLS-721412?style=flat&logo=letsencrypt&logoColor=white" alt="SSL/TLS" />
+</p>
+
+#### Infrastructure & Automation
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white" alt="Red Hat Linux" />
+  <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white" alt="CentOS" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat&logo=puppet&logoColor=black" alt="Puppet" />
+  <img src="https://img.shields.io/badge/SaltStack-57BCAD?style=flat&logo=saltproject&logoColor=white" alt="SaltStack" />
+  <img src="https://img.shields.io/badge/Nagios-006400?style=flat&logoColor=white" alt="Nagios" />
+</p>
+
+#### Languages, Observability & Tools
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -86,7 +120,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhagadepravin&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhagadepravin&theme=algolia&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
