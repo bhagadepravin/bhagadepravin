@@ -117,10 +117,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhagadepravin&theme=onedark&no-frame=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagadepravin&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
